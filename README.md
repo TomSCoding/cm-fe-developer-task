@@ -1,8 +1,15 @@
+# Readme
+
+## File locations
+
+- Main Tables file [src/views/TableList/TableList.js](src/views/TableList/TableList.js)
+- API Request File [src/views/TableList/api.js](src/views/TableList/api.js)
+
 # Connect Mór pre-interview task
 
 The following task will display your understanding of some basic react fundamentals such as states, contexts, effects, etc. It should take evening to complete for a junior react developer.
 
-The task is based on the [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) template by Creative-Tim. We have included some documentation below the task description. 
+The task is based on the [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) template by Creative-Tim. We have included some documentation below the task description.
 
 ## Requirements
 
@@ -21,7 +28,6 @@ The task is based on the [Material Dashboard React](https://demos.creative-tim.c
 - Start the app `yarn start`
 
 Note: Workspace settings for VSCode are included in this repo which will help you with eslinting errors
-
 
 ## Part 1
 
@@ -42,7 +48,7 @@ For extra points add extra style or components to enhance the look and feel of t
 
 ## Submission
 
-Send a link to your github repo with the the finished task to jobs@connectmor.ie with the title "cm-fe-developer-task". 
+Send a link to your github repo with the the finished task to jobs@connectmor.ie with the title "cm-fe-developer-task".
 
 ---
 
